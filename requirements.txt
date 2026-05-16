@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+groq
+requests
+beautifulsoup4
+faiss-cpu
+scikit-learn
+numpy
+python-dotenv
